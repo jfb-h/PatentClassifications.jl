@@ -1,6 +1,6 @@
-using CPC
+using PatentClassifications
 using Test
 
-@testset "CPC.jl" begin
+@testset "PatentClassifications.jl" begin
     # Write your tests here.
 end
